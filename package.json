@@ -1,0 +1,30 @@
+{
+  "name": "gauss-round",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublish": "make prepublish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaeum/gauss-round.git"
+  },
+  "keywords": [
+    "gauss",
+    "round",
+    "gauss-round"
+  ],
+  "author": "vaeum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaeum/gauss-round/issues"
+  },
+  "homepage": "https://github.com/vaeum/gauss-round#readme",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0"
+  }
+}

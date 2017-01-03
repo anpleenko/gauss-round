@@ -1,0 +1,10 @@
+.npmignore
+.gitignore
+Makefile
+node_modules/
+.babelrc
+npm-debug.log
+yarn.lock
+.travis.yml
+.editorconfig
+.idea
