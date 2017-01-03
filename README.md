@@ -11,15 +11,15 @@ npm install --save gauss-round
 ## Usage
 
 ```javascript
-import gaussRound from 'gaussRound';
+import gaussRound from 'gauss-round';
 
 // or
 
-import gaussRound from 'gaussRound/dist/decimalOne.js'; // decimal 1 is default
+import gaussRound from 'gauss-round/dist/decimalOne'; // decimal 1 is default
 
 // or
 
-import gaussRound from 'gaussRound/dist/decimalTwo.js'; // decimal 2 is default
+import gaussRound from 'gauss-round/dist/decimalTwo'; // decimal 2 is default
 
 console.log(gaussRound(3.59, 1));
 // > 3.6
