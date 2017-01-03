@@ -1,7 +1,7 @@
 {
   "name": "gauss-round",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.4",
+  "description": "gaussian rounding script",
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "make prepublish"

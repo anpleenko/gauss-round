@@ -1,5 +1,7 @@
 # gauss-round
 
+### Gaussian rounding script
+
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
 
 ## Install
